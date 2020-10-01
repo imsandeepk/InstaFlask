@@ -1,6 +1,7 @@
 # InstaFlask
 ### Python-ica-Flask way to view Instagram Profile and fetch HD DP of users.
 ### Try it [here](https://instaflask.pythonanywhere.com/)
+## Currently Unavailable. 
 ## Screenshots:
 
 ### Homepage: 
@@ -16,6 +17,3 @@ Just fork and click on "Deploy to Heroku Button"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/instaflask/tree/master)
 
-
-© [Sumanjay](https://cyberboysumanjay.github.io)
-All Rights Reserved
